@@ -4,11 +4,13 @@
 download git and install it in your machine
 
   **perform the following in terminal**
+  ~~~bash
   git --version (checking version)
  git config --global user.name "your github username"
  git config --global user.email "Your github email address"
 
  # working in terminal to start project
+ ~~~bash
   create directory (mkdir <directory_name>)
   cd directory_name
    git init -b main
